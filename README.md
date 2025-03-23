@@ -3,8 +3,11 @@
 ### Задание 1
 
 ![alt text](https://github.com/A1ex93/zabbix_homework/tree/main/img/command_1.png)
+
 ![alt text](https://github.com/A1ex93/zabbix_homework/tree/main/img/command_2.png)
+
 ![alt text](https://github.com/A1ex93/zabbix_homework/blob/main/img/admin.png)
+
 ---
 
 ### Задание 2
