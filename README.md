@@ -12,6 +12,8 @@
 
 ### Задание 2
 
+![alt text](https://github.com/A1ex93/zabbix_homework/blob/main/img/log_server.png)
+
 ![alt text](https://github.com/A1ex93/zabbix_homework/blob/main/img/log_kali.png)
 
 ![alt text](https://github.com/A1ex93/zabbix_homework/blob/main/img/log_ubuntu.png)
